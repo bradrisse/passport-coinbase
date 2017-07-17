@@ -5,3 +5,11 @@
 node_modules
 npm-debug.log
 examples/node_modules
+
+.idea/modules.xml
+
+.idea/passport-coinbase.iml
+
+.idea/vcs.xml
+
+.idea/workspace.xml
